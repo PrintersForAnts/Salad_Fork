@@ -31,15 +31,15 @@ Coming soon™…
     Frame (120mm³ build volume)
     </summary>
 
-Component | Quantity
---- | :-:
-HFS3-1515-240 | 5
-HFS3-1515-145 | 1
-HFS3-1515-270 | 6
-HFS3-1515-400 | 4
-HFS3-1515-230 | 1
-HFS3-1515-210 | 1
-HFS3-1515-140 | 1
+Component | Quantity | Notes
+--- | :-: | ---
+HFS3-1515-400 | 4 | Cross-drill 7.5mm from each end, plus drill 1× gantry hole each
+HFS3-1515-270 | 6 | Tap each end
+HFS3-1515-240 | 5 | Tap each end, cross-drill 2× at center
+HFS3-1515-230 | 1 |
+HFS3-1515-210 | 1 |
+HFS3-1515-145 | 1 |
+HFS3-1515-140 | 1 |
 </details>
 
 <details>
@@ -47,15 +47,15 @@ HFS3-1515-140 | 1
     Frame (150mm³ build volume)
     </summary>
 
-Component | Quantity
---- | :-:
-HFS3-1515-270 | 5
-HFS3-1515-175 | 1
-HFS3-1515-300 | 6
-HFS3-1515-400 | 4
-HSF3-1515-230 | 1
-HSF3-1515-240 | 1
-HSF3-1515-170 | 1
+Component | Quantity | Notes
+--- | :-: | ---
+HFS3-1515-400 | 4 | Cross-drill 7.5mm from each end, plus drill 1× gantry hole each
+HFS3-1515-300 | 6 | Tap each end
+HFS3-1515-270 | 5 | Tap each end, cross-drill 2× at center
+HSF3-1515-240 | 1 |
+HSF3-1515-230 | 1 |
+HFS3-1515-175 | 1 |
+HSF3-1515-170 | 1 |
 </details>
 
 <details>
