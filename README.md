@@ -119,17 +119,18 @@ Rubber foot | 4
     Electronics
     </summary>
 
-Component | Quantity
---- | :-:
-Control board (e.g., Spider, Octopus) | 1
-TMC 2209 driver | 6
-Raspberry Pi | 1
-C13 power cable | 1
-Meanwell UHP-350-24 | 1 (for DC bed heater)
-Keenovo 120m² 120W 24V heater | 1 (for DC bed heater)
-Meanwell UHP-200-24 | 1 (for AC bed heater)
-Keenovo 120mm² 120W 120/240V heater | 1 (for AC bed heater)
-AC SSR (Omron G3NA-210B-UTU DC5-24, Panasonic AQA211VL) | 1 (for AC bed heater)
+Component | Quantity | Notes
+--- | :-: | ---
+Control board | 1 | Fysetc Spider or BigTreeTech Octopus
+TMC 2209 driver | 6 |
+Raspberry Pi | 1 | The Klipper host
+C13 power cable | 1 | 
+Meanwell UHP-200-24 | 1 |
+Keenovo 100mm² 60W 24V heater | 1 | DC bed heater, 120mm³ build
+Keenovo 120mm² 120W 24V heater | 1 | DC bed heater, 150mm³ build
+Keenovo 100mm² 60W 120/240V heater | 1 | AC bed heater, 120mm³ build
+Keenovo 120mm² 120W 120/240V heater | 1 | AC bed heater, 150mm³ build
+AC SSR (Omron G3NA-210B-UTU DC5-24, Panasonic AQA211VL) | 1 | for AC bed heater
 </details>
 
 <details>
@@ -137,14 +138,14 @@ AC SSR (Omron G3NA-210B-UTU DC5-24, Panasonic AQA211VL) | 1 (for AC bed heater)
     Toolhead
     </summary>
 
-Component | Quantity
---- | :-:
-NEMA14 pancake stepper | 1
-BMG gear set | 1
-3010 axial fan | 1 (only if using Dragonfly BMS hotend)
-3007 axial fan | 1 (all other hotends)
-3010 blower fan | 2
-Hotend | 1
+Component | Quantity | Notes
+--- | :-: | ---
+NEMA14 pancake stepper | 1 |
+BMG gear set | 1 |
+3010 axial fan | 1 | Only for Dragonfly BMS hotend
+3007 axial fan | 1 | All other hotends
+3010 blower fan | 2 |
+Hotend | 1 |
 </details>
 
 # Salad Fork in action
