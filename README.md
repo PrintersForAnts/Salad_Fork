@@ -33,13 +33,13 @@ Coming soon™…
 
 Component | Quantity | Notes
 --- | :-: | ---
-HFS3-1515-400 | 4 | Cross-drill 7.5mm from each end, plus drill 1× gantry hole each
-HFS3-1515-270 | 6 | Tap each end
-HFS3-1515-240 | 5 | Tap each end, cross-drill 2× at center
-HFS3-1515-230 | 1 |
+HFS3-1515-400 | 4 | Cross-drill 7.5mm from both ends, plus drill 1× gantry hole each per drill guide
+HFS3-1515-270 | 6 | Tap both ends
+HFS3-1515-240 | 5 | Tap both ends, cross-drill 2 extrusions at center
+HFS3-1515-230 | 1 | Tap one end
 HFS3-1515-210 | 1 |
 HFS3-1515-145 | 1 |
-HFS3-1515-140 | 1 |
+HFS3-1515-140 | 1 | Tap one end
 </details>
 
 <details>
@@ -49,13 +49,13 @@ HFS3-1515-140 | 1 |
 
 Component | Quantity | Notes
 --- | :-: | ---
-HFS3-1515-400 | 4 | Cross-drill 7.5mm from each end, plus drill 1× gantry hole each
-HFS3-1515-300 | 6 | Tap each end
-HFS3-1515-270 | 5 | Tap each end, cross-drill 2× at center
-HSF3-1515-240 | 1 |
+HFS3-1515-400 | 4 | Cross-drill 7.5mm from both ends, plus drill 1× gantry hole each per drill guide
+HFS3-1515-300 | 6 | Tap both ends
+HFS3-1515-270 | 5 | Tap both ends, cross-drill 2 extrusions at center
+HSF3-1515-240 | 1 | Tap one end
 HSF3-1515-230 | 1 |
 HFS3-1515-175 | 1 |
-HSF3-1515-170 | 1 |
+HSF3-1515-170 | 1 | Tap one end
 </details>
 
 <details>
