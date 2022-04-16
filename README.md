@@ -62,34 +62,7 @@ HSF3-1515-170 | 1 | Tap one end
     <summary>
     Fasteners
     </summary>
-
-Component | Quantity
---- | :-:
-M2x6 BHCS | 24
-M2x10 self-tapping | 4
-M2x12 SHCS | 8
-M3x6 BHCS | 49
-M3x6 SHCS | 10
-M3x8 BHCS | 41
-M3x8 SHCS | 8
-M3x10 BHCS | 40
-M3x12 BHCS | 4
-M3x12 SHCS | 18
-M3x16 SHCS | 3
-M3x20 SHCS | 6
-M3x25 BHCS | 18
-M3x25 SHCS | 6
-M3x30 BHCS | 2
-M3x35 BHCS | 5
-M3x35 SHCS | 4
-M5x16 BHCS | 3
-M3 Heatset | 30
-M3 Washer | 26
-M3 lock nut | 6
-M3 hex nut | 98
-M4 knurled nut | 3
-M5 hex nut | 3 
-6x3 neodymium magnet | 8
+See BOM spreadsheet
 </details>
 
 <details>
