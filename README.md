@@ -24,7 +24,7 @@ Coming soon™…
 
 # BOM
 
-[The latest official BOM is available on Google Sheets](https://docs.google.com/spreadsheets/d/1IUI6oiu36kkzXx5OPMRfrHjvIH2P_M3332lTih6h6LI/edit#gid=1896851909). The information below may not be complete; last updated November 17, 2021.
+[The latest official BOM is available on Google Sheets](https://docs.google.com/spreadsheets/d/1n6JTSzffAK_P--eWcxSz3VW9IkL-mgCT2KQqZSYsVyk/edit?usp=sharing). The information below may not be complete; last updated November 17, 2021.
 
 <details>
     <summary>
