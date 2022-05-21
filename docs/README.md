@@ -19,25 +19,75 @@ To help visualize where these go in the printer, you can refer to this image to 
 ![](images/extrusion_map.png)
 
 
-# Add the Z rails
+# Add the front Z rails
 
-Parts needed:
+**Parts needed:**
 * 2 extrusions with the label I
 * 2 Z rails (MGN7H-200)
 * 14 M2 nuts
 * 14 M2x6 BHCS
+* 2 M3x8 BHCS
+* 2 M3 nut
   
-Printed parts:
+**Printed parts:**
 * 2 Rail stops (z_rail_nut_holder)
 
-Steps:
-
+**Steps:**
 
 1. Put 7 M2 nuts in each z rail nut holder, skipping every other hole
-2. Insert rail nut holder into extrusion as shown
+2. Insert rail nut holder into extrusion
 3. Attach MGN7H rail with M2 BHCS
-4. Align bottom of rail 26mm from end
-5. Repeat for second extrusion
-6. **Be careful to not let the rail carriage slide off the rail**
+4. Align bottom of rail 27mm from end before tightening screws. 
+5. Using a M3x8 BHCS and M3 nut, attach the railstop to the top of the rail
+6. Repeat for second extrusion
+7. **Be careful to not let the rail carriage slide off the rail**
 
-TODO get new images from cad showing z rail installation
+![](images/z_rail_to_front_extrusion.png)
+![](images/z_rail_bottom_clearance.png)
+
+
+# Set up front bottom X extrusion
+
+
+**Parts needed:**
+* 1 extrusions with the label E
+* 2 M3x8 BHCS
+* 12 M3 nut
+  
+**Printed parts:**
+* None
+
+**Steps:**
+
+1. Insert a M3x8 BHCS into each end of the extrusion, leaving about 2 mm clearance
+2. Preload 4 M3 nuts into the top of the extrusion
+3. Preload 8 M3 nuts into the bottom of the extrusion
+![](images/front_bottom_x_preloads.png)
+
+
+
+
+# Set up bottom Y extrusions
+
+
+**Parts needed:**
+* 2 extrusions with the label H
+* 4 M3x8 BHCS
+* 18 M3 nut
+  
+**Printed parts:**
+* None
+
+**Steps:**
+
+1. Insert a M3x8 BHCS into each end of the extrusion, leaving about 2 mm clearance
+2. Preload 2 M3 nuts into the top of the extrusion
+3. Preload 7 M3 nuts into the bottom of the extrusion
+4. Repeat for second extrusion
+
+# Assemble front left corner of frame 
+
+**Parts needed:**
+* Front bottom X extrusion (E) from previous step
+* 1 bottom Y extrusion (H) from previous step
+* 1 Z extrusion with rail (I) from previous step
