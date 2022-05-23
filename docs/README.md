@@ -168,7 +168,24 @@ TODO grab picture
 3. Add 2 M3 nuts to the back of the G extrusion
 4. Add 4 M3 nuts to the top of the G extrusion
 5. Attach the C extrusion to the middle of the G extrusion
-6. Attach the rear Z assembly to the frame assembly
    
 ![](images/rear_z_assembly.png)
 
+
+
+# Rear frame assembly 
+
+**Parts needed:**
+* Frame assembly from previous step
+* Rear z assembly from previous step
+* 2 extrusion J
+* 14 M3 nuts 
+
+**Steps:**
+1. Preload 3 nuts into the back of the J extrusion
+2. Preload 4 nuts into the side of the J extrusion
+3. Repeat for second J extrusion
+4. Attach J extrusions to back of the frame assembly 
+5. Attach rear z assembly to the two J extrusions
+
+![](images/bottom_frame_assembly.png)
