@@ -7,6 +7,10 @@
 
 A note to experienced builders: Because of the need to preload nuts instead of using roll-ins like on a 2020-based printer, the build order is important to avoid redoing work. While this document is in development things are not 100% set yet but the rough order should be correct
 
+# General notes
+* If your kit includes machined nut rails those are preferable to the printed parts and should be used instead
+
+
 
 # Lay out the frame and label the extrusions
 
@@ -30,17 +34,20 @@ To help visualize where these go in the printer, you can refer to this image to 
 * 2 M3 nut
   
 **Printed parts:**
-* 2 Rail stops (z_rail_nut_holder)
+* 2 Rail stops ([a]_railstop)
+* 2 Z rail nut holders (z_rail_nut_holder)
+* 2 MGN7 rail guides (MGN7_Rail_Guide)
 
 **Steps:**
 
 1. Put 7 M2 nuts in each z rail nut holder, skipping every other hole
 2. Insert rail nut holder into extrusion
 3. Attach MGN7H rail with M2 BHCS
-4. Align bottom of rail 27mm from end before tightening screws. 
-5. Using a M3x8 BHCS and M3 nut, attach the railstop to the top of the rail
-6. Repeat for second extrusion
-7. **Be careful to not let the rail carriage slide off the rail**
+4. Use the MGN7 rail guide parts to center the rail on the extrusion
+5. Align bottom of rail 27mm from end before tightening screws. 
+6. Using a M3x8 BHCS and M3 nut, attach the railstop to the top of the rail
+7. Repeat for second extrusion
+8. **Be careful to not let the rail carriage slide off the rail**
 
 ![](images/z_rail_to_front_extrusion.png)
 ![](images/z_rail_bottom_clearance.png)
@@ -59,15 +66,18 @@ To help visualize where these go in the printer, you can refer to this image to 
 * 1 M3 nut
   
 **Printed parts:**
-* 1 Rail stops (z_rail_nut_holder)
+* 1 Rail stops ([a]_railstop)
+* 1 Z rail nut holders (z_rail_nut_holder)
+* 2 MGN7 rail guides (MGN7_Rail_Guide)
 
 **Steps:**
 
 1. Put 7 M2 nuts in the z rail nut holder, skipping every other hole
 2. Insert rail nut holder into extrusion
 3. Attach MGN7H rail with M2 BHCS
-4. Align bottom of rail 27mm from end before tightening screws. 
-5. Using a M3x8 BHCS and M3 nut, attach the railstop to the top of the rail
+4. Use the MGN7 rail guide parts to center the rail on the extrusion
+5. Align bottom of rail 27mm from end before tightening screws. 
+6. Using a M3x8 BHCS and M3 nut, attach the railstop to the top of the rail
 7. **Be careful to not let the rail carriage slide off the rail**
 
 
@@ -191,3 +201,81 @@ TODO grab picture
 5. Attach rear z assembly to the two J extrusions
 
 ![](images/bottom_frame_assembly.png)
+
+
+# Prepare Y axis rails
+
+**Parts needed:**
+* 2 extrusion H
+* 2 MGN7H rails (200mm for 120 build, 230mm for 160 build)
+* 14 M2 nuts for 120 build, 16 if 160 build
+* 14 M2x6 BHCS, 16 if 160 build
+* 4 M3x8 BHCS
+* 6 M3 nut
+  
+**Printed parts:**
+* 2 Rail stops ([a]_railstop)
+* 2 Y rail nut holders (y_rail_nut_holder_230)
+* 2 MGN7 rail guides (MGN7_Rail_Guide)
+
+**Steps:**
+1. Put 7 (or 8 if 160 build) M2 nuts in each y rail nut holder, skipping every other hole
+2. Insert rail nut holder into extrusion
+3. Attach MGN7H rail with M2 BHCS
+4. Use the MGN7 rail guide parts to center the rail on the extrusion
+5. Align one end of rail 24mm from the end of the extrusion before tightening screws. 
+6. Using a M3x8 BHCS and M3 nut, attach the railstop to the opposite end of the rail
+7. Add one M3x8 BHCS to each end of the extrusion, leaving a 2mm gap 
+8. Preload 2 M3 nuts onto the top and bottom of the rail between the railstop and the end of the extrusion
+9. Repeat for second extrusion
+10. **Be careful to not let the rail carriage slide off the rail**
+
+
+![](image/../images/y_rail_setup.png)
+
+
+# Attach the Y axis extrusions 
+
+**Parts needed:**
+* 2 Y axis extrusion H with rails attached from previous step
+* Frame from previous step
+
+**Steps:**
+1. Attach each extrusion H between extrusons I and J, the exact distance to the top of the frame will be set later. The rails should be facing the _bottom_ of the frame
+
+![](images/y_rails_added_to_frame.png)
+
+
+# Attach the top extrusions 
+
+**Parts needed:**
+* 2 extrusion H
+* 2 extrusion G
+* 32 M3 nuts
+* 8 M3x8 BHCS
+
+**Steps:**
+1. Preload 4 nuts into the top of each extrusion
+2. Preload 4 nuts into a side of each extrusion
+3. Add one M3x8 BHCS to each end of each extrusion, leaving a 2mm gap 
+4. Attach the extrusions to the frame, making sure that the preloaded nuts are on the top and _outside_ faces of the extrusions. Ensure that the top of the extrusions is level and square with the rest of the frame.
+
+![](images/frame_assembled.png)
+
+# Align the Y extrusions
+
+**Parts needed:**
+* Frame
+* 2 Y axis spacers (y_axis_spacer)
+
+**Steps:**
+1. Loosen the screws holding the Y axis extrusions to the frame
+2. Insert the Y axis spacers between the top extrusion and the Y axis extrusion
+3. Adjust height of the Y axis extrusion so that the extrusion is parallel to the top and the spacer parts fit snugly
+4. Tighten the screws to lock the Y axis extrusion in place 
+5. Remove the Y axis spacers and repeat for the other side
+
+
+# Frame complete!
+
+
