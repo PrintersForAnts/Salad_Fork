@@ -10,6 +10,10 @@ A note to experienced builders: Because of the need to preload nuts instead of u
 # General notes
 * If your kit includes machined nut rails those are preferable to the printed parts and should be used instead
 
+## Conventions used in this document
+* BHCS - Button head cap screw
+* SHCS - Socket head cap screw
+
 # Table of Contents
 - [Frame assembly](frame_assembly.md)
 - [Z motion](z_motion.md)
