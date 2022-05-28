@@ -114,3 +114,45 @@
 
 ![Heatsets](images/z_carriage_rear_heatsets.png)
 ![](images/z_carriage_rear.png)
+
+
+
+# Bed mount prep
+
+**Parts needed:**
+* 3 GE5C spherical bearings
+* 9 M3x6 BHCS
+* 1 extrusion A
+* 1 extrusion F
+* 1 M3x8 BHCS
+* 6 M3 nuts
+
+**Printed parts:**
+* 1 z_bed_left
+* 1 z_bed_right
+* 1 z_bed_rear
+
+
+**Steps:**
+1. Insert the GE5C into the z_bed_left part, and secure it using 3 M3x6 BHCS screws as shown in the image below.
+2. Repeat for the other two pieces 
+3. Join extrusion A to extrusion F using a M3x8 BHCS (refer to extrusion map to see how they join)
+4. Preload 2 nuts into the top of extrusion A 
+5. Preload 2 nuts into the top of extrusion F
+
+![](images/left_z_bed_ge5c.png)
+
+
+# Bed frame mounting
+
+**Parts needed:**
+* Parts from previous step
+* 3 M5 nuts
+* 3 M5x16 BHCS
+* 9 M3x10 BHCS
+
+**Steps:**
+1. Attach the bed mount parts to the extrusions using M3x10 BHCS
+2. Using M5x16 BHCS and M5 nuts, attach the assembly to the frame
+
+![](images/bed_frame_mounted.png)
