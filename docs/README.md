@@ -17,4 +17,6 @@ A note to experienced builders: Because of the need to preload nuts instead of u
 # Table of Contents
 - [Frame assembly](frame_assembly.md)
 - [Z motion](z_motion.md)
+- [XY motion](xy_motion.md)
+- [Gantry](gantry.md)
 

@@ -13,7 +13,7 @@
 **Steps:**
 
 1. Attach a motor mount to each stepper using M3x12 SHCS screws
-2. Attach motors to frame using M3x10 BHCS hooks
+2. Attach motors to frame using M3x10 BHCS hooks. For the rear stepper, use the right 2 preloaded nuts. There should be 2 nuts remaining to the left of the motor mount, we will attach the cable chain anchor here later.
 
 ![](images/z_steppers_added.png)
 
@@ -32,6 +32,22 @@
 3. Fix it in place by adding 2 of the printed deck supports to each side, positioning is not critical
 
 ![](images/deck_plate_added_bottom_view.png)
+
+
+
+# Attach the feet
+
+**Parts needed:**
+* 8 M3x6 BHCS
+
+**Printed parts:**
+* 2 Leg_A
+* 2 Leg_B
+
+**Steps:**
+1. Attach the feet using M3x6 BHCS, pay close attention to the orientation of the parts as shown in the image below
+
+![](images/feet_attached.png)
 
 
 
