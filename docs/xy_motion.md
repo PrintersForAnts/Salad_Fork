@@ -108,3 +108,39 @@
 
 ![](images/a_motor_rear_view.png)
 
+
+
+# Prepare the idler tensioners
+
+**Parts needed:**
+* 4 M3 heatsets
+
+**Printed parts:**
+* 1 tensioner_a
+* 1 tensioner_b
+
+**Steps:**
+1. Insert 2 heatsets into each tensioner part ![](images/A_and_b_idler_tensioner_heatsets.png)
+
+
+
+# Attach the B idler
+
+**Parts needed:**
+* 4 M3x8 BHCS
+* 3 M3 washers
+* 2 F623 bearings
+* 1 M3x35 BHCS
+* 1 M3x25 BHCS
+  
+**Printed parts:**
+* 1 tensioner_top
+* 1 tensioner_bottom
+* 1 tensioner_b
+
+**Steps:**
+1. Attach the tensioner_top to the front left of the printer, on the underside of the extrusion as shown using 2 M3x8 BHCS ![](images/b_idler_lower_mounted.png)
+2. Assemble a bearing stack using 2 M3 washers and 2 F623 bearings, place it on the mounted tensioner_top piece and use a screw to align it with the cutout for later ![](images/b_idler_bearing_stack.png)
+3. Attach the tensioner_bottom to the frame using M3x8 BHCS. Be careful to not dislodge the bearing stack ![](images/b_idler_bottom_attached.png)
+4. Add the tensioner_b part to the assembly, aligning the hole with the bearing stack. Use a M3x35 BHCS to fasten it in place ![](images/b_idler_tensioner_added.png)
+5. Thread a M3 washer and a M3x25 BHCS into the tensioner to finalize the idler assembly ![](images/b_idler_tension_screw.png)
