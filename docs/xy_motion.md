@@ -169,3 +169,25 @@
 3. Attach the tensioner_top to the frame using M3x8 BHCS. Be careful to not dislodge the bearing stack ![](images/a_idler_top_attached.png)
 4. Add the tensioner_a part to the assembly, aligning the hole with the bearing stack. Use a M3x35 BHCS to fasten it in place ![](images/a_idler_tensioner.png)
 5. Thread a M3 washer and a M3x25 BHCS into the tensioner to finalize the idler assembly ![](images/a_idler_finished.png)
+
+
+
+# Attach rear Z brackets and misc parts
+
+**Parts needed:**
+* 4 M3x6 BHCS
+* 4 M3x6 SHCS
+
+**Printed parts:**
+* 1 z_spacer
+* 1 z_bracket_left
+* 1 z_bracket_right
+* 1 bowden_mount
+* 1 umbilical_mount
+
+**Steps:**
+1. Insert the z_spacer between extrusions B and C ![](images/z_axis_spacer.png)
+2. Using 2 M3x6 BHCS, add the z_bracket_right between extrusions B and C ![](images/z_bracket_right.png)
+3. Repeat this process for z_bracket_left
+4. With 2 M3x6 SHCS, mount the umbilical_mount on top of extrusion B, centered over extrusion C ![](images/umbilical_mount.png)
+5. Add the bowden_mount to the bottom of the top rear extrusion E, also centered over extrusion C ![](images/bowden_mount.png) 
