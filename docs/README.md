@@ -19,4 +19,5 @@ A note to experienced builders: Because of the need to preload nuts instead of u
 - [Z motion](z_motion.md)
 - [XY motion](xy_motion.md)
 - [Gantry](gantry.md)
+- [Bed](bed.md)
 
