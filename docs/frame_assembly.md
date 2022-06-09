@@ -279,4 +279,5 @@ TODO grab picture
 
 # Frame complete!
 
+It's recommended to watch this video on ensuring squareness of the frame, and make sure that your frame is as square as possible. This makes assembly easier and reduces troubleshooting issues later with print quality. [Nero 3D - Building Your Frame Square and True - Setup for sucess!](https://www.youtube.com/watch?v=GSg7RDLgYV0&list=PL7zrGeKp_8CR7oSREn46GCAteJdN9XGzW&index=2&t=5s)
 
