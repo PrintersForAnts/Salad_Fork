@@ -20,4 +20,5 @@ A note to experienced builders: Because of the need to preload nuts instead of u
 - [XY motion](xy_motion.md)
 - [Gantry](gantry.md)
 - [Bed](bed.md)
+- [Belts](belts.md)
 
