@@ -12,7 +12,7 @@
 3. Re-add the belt, using the same routing as before
 
 
-# Add A belt
+# Add the A belt
 
 **Parts needed:**
 * GT2 belt cut in previous step
