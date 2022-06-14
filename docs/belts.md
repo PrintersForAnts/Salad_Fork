@@ -41,6 +41,11 @@
 6. It's ok to trim excess belt now, but still leave at least 1cm available on each side
 
 
+# Belt alignment
+
+Check the belts and verify that they are perfectly aligned within the pulleys and bearings, and that the belts do not ride over the flanges. Move the gantry around in X and Y and verify that the everything moves smoothly with no binding and the belts remain centered. 
+
+When complete, remove the grub screws from the motor pulleys, apply loctite (removable variant, blue) to them and re-insert. Do this one screw at a time to ensure the alignment remains correct.
 
 
 # Belt tension and gantry racking
