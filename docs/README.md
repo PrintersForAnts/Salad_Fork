@@ -21,4 +21,5 @@ A note to experienced builders: Because of the need to preload nuts instead of u
 - [Gantry](gantry.md)
 - [Bed](bed.md)
 - [Belts](belts.md)
+- [Klicky](klicky.md)
 
