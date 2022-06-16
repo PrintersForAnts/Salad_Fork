@@ -172,3 +172,17 @@
 2. Using M5x16 BHCS and M5 nuts, attach the assembly to the frame
 
 ![](images/bed_frame_mounted.png)
+
+# Z chain anchor
+
+**Parts needed:**
+* 3 M3 heatsets
+* 2 M3x6 SHCS
+
+**Printed parts:**
+* 1 z_chain_mount
+  
+**Steps:**
+1. Insert the 3 heatsets into the z_chain_mount ![](images/z_chain_anchor_heatsets.png)
+2. Using the M3x6 SHCS, attach the z_chain_mount to extrusion G ![](images/z_chain_anchor_attached.png)
+

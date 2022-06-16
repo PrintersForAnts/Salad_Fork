@@ -66,7 +66,7 @@
 
 **Steps:**
 1. Prepare 2 lengths of wire, about 20cm long. Strip about 5mm from one end of each 
-2. Insert the wires through the center holes, and hook the bare end through the cutout channel into the magnet area. Make sure there is enough wire in the magnet hole to make a solid connection to the magnet when it's in place
+2. Insert the wires through the center holes, and hook the bare end through the cutout channel into the magnet area. Make sure there is enough wire in the magnet hole to make a solid connection to the magnet when it's in place ![](images/x_lower_carriage_wires.jpg)
 3. Insert magnets into the 3 holes, with the matching polarity as the klicky probe previously. Each magnet should be attracted to it's corresponding one on the klicky probe. 
 4. When the magnets are level and in the correct polarity, use a small amount of glue to fix them in place. 
 5. Prepare 2 more lengths of wire, again about 20cm, and solder them to the outside contacts of the D2F switch
