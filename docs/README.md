@@ -23,5 +23,5 @@ A note to experienced builders: Because of the need to preload nuts instead of u
 - [Belts](belts.md)
 - [Klicky](klicky.md)
 - [Mini-Afterburner](mini-ab.md)
-- 
+- [Electronics](electronics.md)
 
