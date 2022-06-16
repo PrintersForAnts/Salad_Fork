@@ -48,4 +48,27 @@
 
 
 
-# TODO X LOWER CARRIAGE KLICKY MOUNT
+
+# Lower carriage mount
+
+**Parts needed:**
+* 1 D2F switch
+* 1 M2x10 self tapping screw
+* 2 M3x20 SHCS
+* 3 6x3 magnets
+* 24 gauge wire
+
+
+
+**Printed parts:**
+* 1 x_carriage_lower
+
+
+**Steps:**
+1. Prepare 2 lengths of wire, about 20cm long. Strip about 5mm from one end of each 
+2. Insert the wires through the center holes, and hook the bare end through the cutout channel into the magnet area. Make sure there is enough wire in the magnet hole to make a solid connection to the magnet when it's in place
+3. Insert magnets into the 3 holes, with the matching polarity as the klicky probe previously. Each magnet should be attracted to it's corresponding one on the klicky probe. 
+4. When the magnets are level and in the correct polarity, use a small amount of glue to fix them in place. 
+5. Prepare 2 more lengths of wire, again about 20cm, and solder them to the outside contacts of the D2F switch
+6. Using the M2x10 screw, mount the switch to the side of the lower carriage ![](images/x_lower_carriage_switch.png)
+7. Use the M3x20 screws to attach the lower carriage to the upper carriage ![](images/x_lower_carriage_mounted.png)
