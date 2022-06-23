@@ -25,4 +25,5 @@ A note to experienced builders: Because of the need to preload nuts instead of u
 - [Mini-Afterburner](mini-ab.md)
 - [Electronics](electronics.md)
 - [Skirts](skirts.md)
-
+- [Wiring](wiring.md)
+- [Panels](panels.md)
