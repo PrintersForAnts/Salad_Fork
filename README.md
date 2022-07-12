@@ -30,3 +30,7 @@ Coming soon™…
 
 [![Salad Fork video from CadmonkeyFPV](https://img.youtube.com/vi/ibptF2t73A4/0.jpg)](https://youtu.be/ibptF2t73A4)
 [![Salad Fork video from Yeri](images/salad-fork-yeri-serial-thumbnail.png)](https://www.youtube.com/watch?v=kDXkF1GaVEc)
+
+# Merch!
+
+Want to by a Salad Fork t-shirt? Go here! [Salad Fork Shirt](https://www.zazzle.com/salad_fork_shirt-235952482666288179)
