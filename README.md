@@ -6,13 +6,14 @@ The Salad Fork is a [Voron Trident][tridentURL] scaled down to use 1515 aluminum
 
 Why go to the trouble of a whole new build? Well, Salad Fork features:
 
-- Support for build volumes of 120mm³ or 150mm³ (1.95× the build volume of a V0.1!)
+- Support for build volumes of 120mm³ or 160mm³ (1.95× the build volume of a V0.1!)
 - [Klicky support][klickyURL]
 - [Purge bucket support][purgeBucketURL]
+- Flexible toolhead support with a variety of options
+- Fast preheat time compared to full-sized printers, no need to wait an hour preheating
 
 Coming soon™…
 
-- [Sexbolt support][sexboltURL]
 - Magnetically-attached panels
 
 [tridentURL]: https://vorondesign.com/voron_trident
@@ -24,103 +25,8 @@ Coming soon™…
 
 # BOM
 
-[The latest official BOM is available on Google Sheets](https://docs.google.com/spreadsheets/d/1n6JTSzffAK_P--eWcxSz3VW9IkL-mgCT2KQqZSYsVyk/edit?usp=sharing). The information below may not be complete; last updated November 17, 2021.
-
-<details>
-    <summary>
-    Frame (120mm³ build volume)
-    </summary>
-
-Component | Quantity | Notes
---- | :-: | ---
-HFS3-1515-400 | 4 | Cross-drill 7.5mm from both ends, plus drill 1× gantry hole each per drill guide
-HFS3-1515-270 | 6 | Tap both ends
-HFS3-1515-240 | 5 | Tap both ends, cross-drill 2 extrusions at center
-HFS3-1515-230 | 1 | Tap one end
-HFS3-1515-210 | 1 |
-HFS3-1515-145 | 1 |
-HFS3-1515-140 | 1 | Tap one end
-</details>
-
-<details>
-    <summary>
-    Frame (150mm³ build volume)
-    </summary>
-
-Component | Quantity | Notes
---- | :-: | ---
-HFS3-1515-400 | 4 | Cross-drill 7.5mm from both ends, plus drill 1× gantry hole each per drill guide
-HFS3-1515-300 | 6 | Tap both ends
-HFS3-1515-270 | 5 | Tap both ends, cross-drill 2 extrusions at center
-HSF3-1515-240 | 1 | Tap one end
-HSF3-1515-230 | 1 |
-HFS3-1515-175 | 1 |
-HSF3-1515-170 | 1 | Tap one end
-</details>
-
-<details>
-    <summary>
-    Fasteners
-    </summary>
-See BOM spreadsheet
-</details>
-
-<details>
-    <summary>
-    Motion
-    </summary>
-
-Component | Quantity
---- | :-:
-NEMA14 stepper | 2
-NEMA17 integrated-leadscrew stepper | 3
-MGN9C 180 | 1 (for 120mm³)
-MGN7H 200 | 5 (for 120mm³)
-MGN9C 210 | 1 (for 150mm³)
-MGN7H 230 | 2 (for 150mm³)
-MGN7H 200 | 3 (for 150mm³)
-Gates GT2 6mm open belt | 4m
-F623-RS flanged bearings | 24
-GE5C spherical bearings | 3
-D2F switch | 4
-TR8×8 leadscrew nut | 3
-Rubber foot | 4
-</details>
-
-<details>
-    <summary>
-    Electronics
-    </summary>
-
-Component | Quantity | Notes
---- | :-: | ---
-Control board | 1 | Fysetc Spider or BigTreeTech Octopus
-TMC 2209 driver | 6 |
-Raspberry Pi | 1 | The Klipper host
-C13 power cable | 1 | 
-Meanwell UHP-200-24 | 1 |
-Keenovo 100mm² 60W 24V heater | 1 | DC bed heater, 120mm³ build
-Keenovo 120mm² 120W 24V heater | 1 | DC bed heater, 150mm³ build
-Keenovo 100mm² 60W 120/240V heater | 1 | AC bed heater, 120mm³ build
-Keenovo 120mm² 120W 120/240V heater | 1 | AC bed heater, 150mm³ build
-AC SSR (Omron G3NA-210B-UTU DC5-24, Panasonic AQA211VL) | 1 | for AC bed heater
-</details>
-
-<details>
-    <summary>
-    Toolhead
-    </summary>
-
-Component | Quantity | Notes
---- | :-: | ---
-NEMA14 pancake stepper | 1 |
-BMG gear set | 1 |
-3010 axial fan | 1 | Only for Dragonfly BMS hotend
-3007 axial fan | 1 | All other hotends
-3010 blower fan | 2 |
-Hotend | 1 |
-</details>
-
+[The latest official BOM is available on Google Sheets](https://docs.google.com/spreadsheets/d/1n6JTSzffAK_P--eWcxSz3VW9IkL-mgCT2KQqZSYsVyk/edit?usp=sharing).~~~~
 # Salad Fork in action
 
 [![Salad Fork video from CadmonkeyFPV](https://img.youtube.com/vi/ibptF2t73A4/0.jpg)](https://youtu.be/ibptF2t73A4)
+[![Salad Fork video from Yeri](images/salad-fork-yeri-serial-thumbnail.png)](https://www.youtube.com/watch?v=kDXkF1GaVEc)
