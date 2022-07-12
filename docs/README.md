@@ -1,6 +1,6 @@
 # Introduction
 
-![](/images/whole_printer_small.png)    
+![](images/whole_printer_small.png)    
 
 Welcome to the Salad Fork manual! This will give you the info you need in order to complete the physical assembly of the printer. If you run into any difficulties or issues with the manual, please jump over to the discord channel and let us know!
 # General notes
