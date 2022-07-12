@@ -26,6 +26,10 @@ Coming soon™…
 # BOM
 
 [The latest official BOM is available on Google Sheets](https://docs.google.com/spreadsheets/d/1n6JTSzffAK_P--eWcxSz3VW9IkL-mgCT2KQqZSYsVyk/edit?usp=sharing).
+
+# Documentation
+
+[The documentation is included in this repo right over here](docs/README.md)
 # Salad Fork in action
 
 [![Salad Fork video from CadmonkeyFPV](https://img.youtube.com/vi/ibptF2t73A4/0.jpg)](https://youtu.be/ibptF2t73A4)
