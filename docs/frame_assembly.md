@@ -256,10 +256,11 @@ TODO grab picture
 
 **Steps:**
 1. Preload 4 nuts into the top of each extrusion
-2. Preload 4 nuts into a side of each extrusion
-3. Preload 2 nuts into the bottom of one extrusion (this will go in the rear of the frame)
-4. Add one M3x8 BHCS to each end of each extrusion, leaving a 2mm gap 
-5. Attach the extrusions to the frame, making sure that the preloaded nuts are on the top and _outside_ faces of the extrusions, and that the extrusion with 2 nuts on the bottom is in the rear of the frame. Ensure that the top of the extrusions is level and square with the rest of the frame.
+2. Preload 4 nuts into a side of two extrusion H. These will face the outside of the printer
+3. Preload 2 nuts into one side of one extrusion G. This will face the rear of the printer
+4. Preload 2 nuts into the bottom of the same G extrusion (this will go in the rear of the frame)
+5. Add one M3x8 BHCS to each end of each extrusion, leaving a 2mm gap 
+6. Attach the extrusions to the frame, making sure that the preloaded nuts are on the top and _outside_ faces of the extrusions, and that the extrusion with 2 nuts on the bottom is in the rear of the frame. Ensure that the top of the extrusions is level and square with the rest of the frame.
 
 ![](images/frame_assembled.png)
 
