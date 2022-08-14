@@ -251,7 +251,6 @@ TODO grab picture
 **Parts needed:**
 * 2 extrusion H
 * 2 extrusion G
-**Parts needed:**
 * 34 M3 nuts
 * 8 M3x8 BHCS
 
