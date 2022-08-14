@@ -225,8 +225,8 @@ TODO grab picture
 5. Align one end of rail 24mm from the end of the extrusion before tightening screws. 
 6. Using a M3x8 BHCS and M3 nut, attach the railstop to the opposite end of the rail
 7. Add one M3x8 BHCS to each end of the extrusion, leaving a 2mm gap 
-8. Preload 2 M3 nuts onto the top and bottom of the rail between the railstop and the end of the extrusion
-9. Preload 2 M3 nuts onto the top and bottom of the rail on the opposite end from the railstop
+8. Preload 2 M3 nuts onto the top and 2 M3 nuts into the bottom of the rail between the railstop and the end of the extrusion
+9. Preload 2 M3 nuts onto the top and 2 M3 nuts into bottom of the rail on the opposite end from the railstop
 10. Repeat for second extrusion
 11. **Be careful to not let the rail carriage slide off the rail**
 
