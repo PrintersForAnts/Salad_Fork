@@ -176,7 +176,8 @@ TODO grab picture
 1. Add one M3x8 BHCS into each end of the G extrusion, leaving about 2mm clearance 
 2. Add 8 M3 nuts to the bottom of the G extrusion
 3. Add 2 M3 nuts to the back of the G extrusion
-4. Add 4 M3 nuts to the top of the G extrusion
+3. Add 2 M3 nuts to the front of the G extrusion
+4. Add 4 M3 nuts to the top of the G extrusion. Three of these should be on the left half, and one on the right half.
 5. Attach the C extrusion to the middle of the G extrusion
    
 ![](images/rear_z_assembly.png)
