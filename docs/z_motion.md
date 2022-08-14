@@ -13,7 +13,7 @@
 **Steps:**
 
 1. Attach a motor mount to each stepper using M3x12 SHCS screws
-2. Attach motors to frame using M3x10 BHCS hooks. For the rear stepper, use the right 2 preloaded nuts. There should be 2 nuts remaining to the left of the motor mount, we will attach the cable chain anchor here later.
+2. Attach motors to frame using M3x10 BHCS screws. For the rear stepper, use the right 2 preloaded nuts. There should be 2 nuts remaining to the left of the motor mount, we will attach the cable chain anchor here later.
 
 ![](images/z_steppers_added.png)
 
