@@ -42,7 +42,7 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 2. Insert rail nut holder into extrusion
 3. Attach MGN7H rail with M2 BHCS
 4. Use the MGN7 rail guide parts to center the rail on the extrusion
-5. Align bottom of rail 27mm from end before tightening screws. 
+5. Align bottom of rail 22mm from end before tightening screws. 
 6. Using a M3x8 BHCS and M3 nut, attach the railstop to the top of the rail
 7. Repeat for second extrusion
 8. **Be careful to not let the rail carriage slide off the rail**
@@ -74,7 +74,7 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 2. Insert rail nut holder into extrusion
 3. Attach MGN7H rail with M2 BHCS
 4. Use the MGN7 rail guide parts to center the rail on the extrusion
-5. Align bottom of rail 12mm from end before tightening screws. 
+5. Align bottom of rail 7mm from end before tightening screws. 
 6. Using a M3x8 BHCS and M3 nut, attach the railstop to the top of the rail
 7. **Be careful to not let the rail carriage slide off the rail**
 
