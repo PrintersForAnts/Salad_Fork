@@ -129,7 +129,7 @@
 # Attach the B idler
 
 **Parts needed:**
-* 4 M3x8 BHCS
+* 4 M3x10 BHCS
 * 3 M3 washers
 * 2 F623 bearings
 * 1 M3x35 BHCS
@@ -141,7 +141,7 @@
 * 1 tensioner_b
 
 **Steps:**
-1. Attach the tensioner_top to the front left of the printer, on the underside of the extrusion as shown using 2 M3x8 BHCS ![](images/b_idler_lower_mounted.png)
+1. Attach the tensioner_top to the front left of the printer, on the underside of the extrusion as shown using 2 M3x10 BHCS ![](images/b_idler_lower_mounted.png)
 2. Assemble a bearing stack using 2 M3 washers and 2 F623 bearings, place it on the mounted tensioner_top piece and use a screw to align it with the cutout for later ![](images/b_idler_bearing_stack.png)
 3. Attach the tensioner_bottom to the frame using M3x8 BHCS. Be careful to not dislodge the bearing stack ![](images/b_idler_bottom_attached.png)
 4. Add the tensioner_b part to the assembly, aligning the hole with the bearing stack. Use a M3x35 BHCS to fasten it in place ![](images/b_idler_tensioner_added.png)
@@ -154,7 +154,7 @@
 # Attach the A idler
 
 **Parts needed:**
-* 4 M3x8 BHCS
+* 4 M3x10 BHCS
 * 3 M3 washers
 * 2 F623 bearings
 * 1 M3x35 BHCS
@@ -166,7 +166,7 @@
 * 1 tensioner_a
 
 **Steps:**
-1. Attach the tensioner_bottom to the front right of the printer, on the underside of the extrusion as shown using 2 M3x8 BHCS ![](images/a_idler_bottom_mounted.png)
+1. Attach the tensioner_bottom to the front right of the printer, on the underside of the extrusion as shown using 2 M3x10 BHCS ![](images/a_idler_bottom_mounted.png)
 2. Assemble a bearing stack using 2 M3 washers and 2 F623 bearings, place it on the mounted tensioner_bottom piece and use a screw to align it with the cutout for later ![](images/a_idler_bearing_stack.png)
 3. Attach the tensioner_top to the frame using M3x8 BHCS. Be careful to not dislodge the bearing stack ![](images/a_idler_top_attached.png)
 4. Add the tensioner_a part to the assembly, aligning the hole with the bearing stack. Use a M3x35 BHCS to fasten it in place ![](images/a_idler_tensioner.png)
