@@ -3,7 +3,7 @@
 **Parts needed:**
 * 8 M3x10 BHCS
 * 1 Extrusion B  
-* 10 M3 nuts
+* 12 M3 nuts
   
 **Printed parts:**
 * 1 A_Drive_Frame_Lower
@@ -13,7 +13,7 @@
 1. Attach the B_Drive_Frame_Lower to the left rear corner of the frame using 2 M3x10 BHCS
 2. Attach the A_Drive_Frame_Lower to the right rear corner of the frame using 2 M3x10 BHCS
 ![](images/lower_motor_mounts_attached.png)
-3. Preload 6 M3 nuts onto the top and 4 M3 nuts onto the bottom of extrusion B.
+3. Preload 6 M3 nuts onto the top and 6 M3 nuts onto the bottom of extrusion B.
 4. Center the extrusion B on the mounts and attach it with 2 M3x10 BHCS on each mount. The extrusion B will not sit flush with the extrusion C on the frame, this is intentional
 ![](images/extrusion_b_added.png)
 
@@ -37,7 +37,7 @@
 * 6 F623 bearings
 * 6 M3 washers
 * 4 M3x10 BHCS
-* 1 M3x8 BHCS
+* 1 M3x6 BHCS
 * 2 M3x25 BHCS
 * 3 M3x25 SHCS
 * 1 B motor assembly from previous step
@@ -48,7 +48,7 @@
 
 **Steps:**
 
-1. Attach the motor assembly to the B_drive_Frame_lower using 1 M3x8 BHCS in the position shown. Orient the stepper so that the wires are on the left side ![](images/b_drive_m3_x8.png)
+1. Attach the motor assembly to the B_drive_Frame_lower using 1 M3x6 BHCS in the position shown. Orient the stepper so that the wires are on the left side ![](images/b_drive_m3_x8.png)
 2. Using 3 M3x25 SHCS, attach the B_Drive_Frame_Upper ![](images/b_drive_top_attached.png)
 3. Add 4 M3x10 BHCS screws to attach the upper drive frame to the extrusions ![](images/b_drive_upper_mounted_extrusion.png)
 4. Use a M3x25 BHCS to mount a bearing stack in place. A bearing stack is a M3 washer, 2 F623 bearings, and another M3 washer ![Bearing stack side view](images/bearing_stack_side_view.png) ![](images/b_drive_first_bearing_stack.png)
@@ -91,7 +91,7 @@
 * 6 F623 bearings
 * 6 M3 washers
 * 4 M3x10 BHCS
-* 1 M3x8 BHCS
+* 1 M3x6 BHCS
 * 2 M3x25 BHCS
 * 3 M3x25 SHCS
 * 1 B motor assembly from previous step
@@ -102,7 +102,7 @@
 
 **Steps:**
 
-1. Attach the motor assembly to the A_drive_Frame_lower using 1 M3x8 BHCS in the position shown. Orient the stepper so that the wires are on the right side ![](images/a_drive_stepper_attached.png)
+1. Attach the motor assembly to the A_drive_Frame_lower using 1 M3x6 BHCS in the position shown. Orient the stepper so that the wires are on the right side ![](images/a_drive_stepper_attached.png)
 2. Using 3 M3x25 SHCS, attach the A_Drive_Frame_Upper ![](images/A_drive_top_attached.png)
 3. Add 4 M3x10 BHCS screws to attach the upper drive frame to the extrusions ![](images/a_drive_upper_mounted_extrusion.png)
 4. Use a M3x25 BHCS to mount a bearing stack in place. A bearing stack is a M3 washer, 2 F623 bearings, and another M3 washer ![Bearing stack side view](images/bearing_stack_side_view.png) ![](images/a_drive_first_bearing_stack.png)
