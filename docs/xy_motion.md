@@ -3,7 +3,7 @@
 **Parts needed:**
 * 8 M3x10 BHCS
 * 1 Extrusion B  
-* 12 M3 nuts
+* 16 M3 nuts
   
 **Printed parts:**
 * 1 A_Drive_Frame_Lower
@@ -14,7 +14,8 @@
 2. Attach the A_Drive_Frame_Lower to the right rear corner of the frame using 2 M3x10 BHCS
 ![](images/lower_motor_mounts_attached.png)
 3. Preload 6 M3 nuts onto the top and 6 M3 nuts onto the bottom of extrusion B.
-4. Center the extrusion B on the mounts and attach it with 2 M3x10 BHCS on each mount. The extrusion B will not sit flush with the extrusion C on the frame, this is intentional
+4. Preload 2 M3 nuts into the left and 2 M3 nuts into the right side of extrusion C (the one with the rear Z rail attached)
+5. Center the extrusion B on the mounts and attach it with 2 M3x10 BHCS on each mount. The extrusion B will not sit flush with the extrusion C on the frame, this is intentional
 ![](images/extrusion_b_added.png)
 
 # Prepare the B drive stepper
