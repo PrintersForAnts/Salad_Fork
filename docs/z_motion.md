@@ -154,7 +154,7 @@
 2. Repeat for the other two pieces 
 3. Join extrusion A to extrusion F using a M3x8 BHCS (refer to extrusion map to see how they join)
 4. Preload 3 nuts into the top of extrusion A 
-5. Preload 5 nuts into the top of extrusion F
+5. Preload 6 nuts into the top of extrusion F
 
 ![](images/left_z_bed_ge5c.png)
 
