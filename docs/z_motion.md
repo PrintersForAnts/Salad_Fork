@@ -168,7 +168,7 @@
 * 9 M3x10 BHCS
 
 **Steps:**
-1. Attach the bed mount parts to the extrusions using M3x10 BHCS. Use only the outermost 2 nuts in each extrusion, you will need the extra nuts later to mount the bed to these extrusions.
+1. Attach the bed mount parts to the extrusions using M3x10 BHCS. Use only the outermost 2 nuts in each extrusion, you will need the extra nuts later to mount the bed to these extrusions. *Leave the screws on the rear carriage slightly loose, this will be adjusted in a later step*
 2. Using M5x16 BHCS and M5 nuts, attach the assembly to the frame
 
 ![](images/bed_frame_mounted.png)

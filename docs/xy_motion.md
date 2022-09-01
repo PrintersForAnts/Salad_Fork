@@ -16,6 +16,8 @@
 3. Preload 6 M3 nuts onto the top and 6 M3 nuts onto the bottom of extrusion B.
 4. Preload 1 M3 nut into the left and 1 M3 nut into the right side of extrusion C (the one with the rear Z rail attached)
 5. Center the extrusion B on the mounts and attach it with 2 M3x10 BHCS on each mount. The extrusion B will not sit flush with the extrusion C on the frame, this is intentional
+6. Make sure the extrusion B is parallel with the corner extrusions. You can use a straightedge across the back of the printer to align it
+7. Now you can gently tighten the screws on the rear Z carriage to hold extrusion B in it's proper orientation
 ![](images/extrusion_b_added.png)
 
 # Prepare the B drive stepper
