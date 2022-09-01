@@ -153,7 +153,7 @@ TODO grab picture
 * 1 bottom Y extrusion (H) from previous step
 * 1 Z extrusion with rail (I) from previous step
 * 4 M3 nuts 
-* 
+  
 **Steps:**
 1. Preload 4 M3 nuts into the left side of extrusion I (facing the left side of the printer after assembled)
 2. Attach extrusion I to extrusion E in the frame, and tighten the screw in the E extrusion

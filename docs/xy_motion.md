@@ -97,7 +97,7 @@
 * 1 M3x6 BHCS
 * 2 M3x25 BHCS
 * 3 M3x25 SHCS
-* 1 B motor assembly from previous step
+* 1 A motor assembly from previous step
 
 
 **Printed parts:**
