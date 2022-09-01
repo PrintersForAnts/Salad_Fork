@@ -190,10 +190,9 @@ TODO grab picture
 * Frame assembly from previous step
 * Rear z assembly from previous step
 * 2 extrusion J
-* 14 M3 nuts 
+* 8 M3 nuts 
 
 **Steps:**
-1. Preload 3 nuts into the back of the J extrusion
 2. Preload 4 nuts into the side of the J extrusion
 3. Repeat for second J extrusion
 4. Attach J extrusions to back of the frame assembly 

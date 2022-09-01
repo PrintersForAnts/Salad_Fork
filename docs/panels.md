@@ -4,11 +4,13 @@
 * 1 3mm pre-cut rear panel
 * 3mm thick foam tape
 * 10 M3x10 BHCS
+* 6 M3 nuts
 
 **Steps:**
 
 1. Line the edges of the rear panel with 3mm foam
-2. Mount the rear panel using the M3x10 BHCS. These should squish the foam slightly to make a nice seal to the frame. The highlights in this image show the location of the foam ![](images/rear_panel.png)
+2. Preload 3 M3 nuts into the rear of the two extrusion J's in the rear of the printer
+3. Mount the rear panel using the M3x10 BHCS. These should squish the foam slightly to make a nice seal to the frame. The highlights in this image show the location of the foam ![](images/rear_panel.png)
 
 # Attach the top panel
 
