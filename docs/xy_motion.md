@@ -3,7 +3,7 @@
 **Parts needed:**
 * 8 M3x10 BHCS
 * 1 Extrusion B  
-* 14 M3 nuts
+* 16 M3 nuts
   
 **Printed parts:**
 * 1 A_Drive_Frame_Lower
@@ -14,10 +14,11 @@
 2. Attach the A_Drive_Frame_Lower to the right rear corner of the frame using 2 M3x10 BHCS
 ![](images/lower_motor_mounts_attached.png)
 3. Preload 6 M3 nuts onto the top and 6 M3 nuts onto the bottom of extrusion B.
-4. Preload 1 M3 nut into the left and 1 M3 nut into the right side of extrusion C (the one with the rear Z rail attached)
-5. Center the extrusion B on the mounts and attach it with 2 M3x10 BHCS on each mount. The extrusion B will not sit flush with the extrusion C on the frame, this is intentional
-6. Make sure the extrusion B is parallel with the corner extrusions. You can use a straightedge across the back of the printer to align it
-7. Now you can gently tighten the screws on the rear Z carriage to hold extrusion B in it's proper orientation
+4. Preload 2 M3 nuts into the front of extrusion B
+5. Preload 1 M3 nut into the left and 1 M3 nut into the right side of extrusion C (the one with the rear Z rail attached)
+6. Center the extrusion B on the mounts and attach it with 2 M3x10 BHCS on each mount. The extrusion B will not sit flush with the extrusion C on the frame, this is intentional
+7. Make sure the extrusion B is parallel with the corner extrusions. You can use a straightedge across the back of the printer to align it
+8. Now you can gently tighten the screws on the rear Z carriage to hold extrusion B in it's proper orientation
 ![](images/extrusion_b_added.png)
 
 # Prepare the B drive stepper
@@ -191,7 +192,6 @@
 * 1 umbilical_mount
 
 **Steps:**
-1. Insert the z_spacer between extrusions B and C ![](images/z_axis_spacer.png)
 2. Using 2 M3x6 BHCS, add the z_bracket_right between extrusions B and C ![](images/z_bracket_right.png)
 3. Repeat this process for z_bracket_left
 4. With 2 M3x6 SHCS, mount the umbilical_mount on top of extrusion B, centered over extrusion C ![](images/umbilical_mount.png)
