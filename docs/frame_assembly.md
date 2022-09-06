@@ -123,9 +123,6 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 4. Preload 4 M3 nuts into each side of the extrusion
 5. Repeat for second extrusion
 
-TODO grab picture
-
-
 
 # Assemble front left corner of frame 
 
@@ -193,10 +190,10 @@ TODO grab picture
 * 8 M3 nuts 
 
 **Steps:**
-2. Preload 4 nuts into the side of the J extrusion
-3. Repeat for second J extrusion
-4. Attach J extrusions to back of the frame assembly 
-5. Attach rear z assembly to the two J extrusions
+1. Preload 4 nuts into the side of the J extrusion (these will face the outside when assembled)
+2. Repeat for second J extrusion
+3. Attach J extrusions to back of the frame assembly 
+4. Attach rear z assembly to the two J extrusions
 
 ![](images/bottom_frame_assembly.png)
 
