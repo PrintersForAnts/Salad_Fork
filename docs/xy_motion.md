@@ -195,4 +195,4 @@
 2. Using 2 M3x6 BHCS, add the z_bracket_right between extrusions B and C ![](images/z_bracket_right.png)
 3. Repeat this process for z_bracket_left
 4. With 2 M3x6 SHCS, mount the umbilical_mount on top of extrusion B, centered over extrusion C ![](images/umbilical_mount.png)
-5. Add the bowden_mount to the bottom of the top rear extrusion E, also centered over extrusion C ![](images/bowden_mount.png) 
+5. Add the bowden_mount to the bottom of the top rear extrusion E, also centered over extrusion C ![](images/bowden_mount.png) using 2 M3x6 SHCS
