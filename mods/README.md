@@ -17,4 +17,4 @@ like so:
 ---
 
 | Creator | Mod title | Description |
-| --- | --- | --- |
+| Midnite3DP | Captive Pins Mod | A mod for captive pins and mini pinned rama-style idlers |
