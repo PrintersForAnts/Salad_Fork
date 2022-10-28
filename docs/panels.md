@@ -10,7 +10,9 @@
 
 1. Line the edges of the rear panel with 3mm foam
 2. Preload 3 M3 nuts into the rear of the two extrusion J's in the rear of the printer
-3. Mount the rear panel using the M3x10 BHCS. These should squish the foam slightly to make a nice seal to the frame. The highlights in this image show the location of the foam ![](images/rear_panel.png)
+3. Mount the rear panel using the M3x10 BHCS. These should squish the foam slightly to make a nice seal to the frame. The highlights in this image show the location of the foam 
+
+![](images/rear_panel.png)
 
 # Attach the top panel
 
@@ -94,12 +96,20 @@
 
 **Steps:**
 1. Line the edges of the acrylic panel with the 1mm foam
-2. Add 3 magnets to the door_top_right and door_bottom_right parts. Make sure the polarity is the same for all of the magnets, and use a drop of glue to keep them in place ![](images/front_door_magnets.png)
+2. Add 3 magnets to the door_top_right and door_bottom_right parts. Make sure the polarity is the same for all of the magnets, and use a drop of glue to keep them in place 
+
+![](images/front_door_magnets.png)
+
 3. Add 3 magnets to each of the door_retainer parts, align the polarity of the magnets so they are attacted to the door magnets and glue in place
 4. Center the acrylic panel on the front side of the frame
 5. Add a small bit of VHB tape to the inside of each corner piece, 2-3cm long
-6. Add the corner pieces, and use 2 M3x35 BHCS to attach the hinges together ![](images/door_screw_hinge.png)
-7. Using 2 M3x12 BHCS each, mount the door_retainer assemblies to the extrusion I, aligning them with the magnets in the door ![](images/door_retainer.png)
+6. Add the corner pieces, and use 2 M3x35 BHCS to attach the hinges together 
+
+![](images/door_screw_hinge.png)
+
+7. Using 2 M3x12 BHCS each, mount the door_retainer assemblies to the extrusion I, aligning them with the magnets in the door 
+
+![](images/door_retainer.png)
 
 
 

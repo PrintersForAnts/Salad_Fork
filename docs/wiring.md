@@ -7,7 +7,9 @@
 
 
 **Steps:**
-1. Add 2 cable_tie_down_misumi to the right side of extrusion C. Exact position is not important, these are used to secure the toolhead umbilical wires ![](images/cable_tie_downs.png)
+1. Add 2 cable_tie_down_misumi to the right side of extrusion C. Exact position is not important, these are used to secure the toolhead umbilical wires 
+
+![](images/cable_tie_downs.png)
 
 
 # Wiring

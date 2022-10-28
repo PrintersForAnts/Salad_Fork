@@ -66,10 +66,10 @@
 * 1 [a]_z_carriage_left
 
 **Steps:**
-2. Attach the accent piece to the main piece using 3 M3x6 BHCS screws
-3. Thread the leadscrew nut onto the left Z stepper shaft
-4. Attach the printed parts to the rail carriage using 4 M2x6 BHCS screws
-5. Attach the printed parts to the leadscrew nut using 2 M3x12 SCHS screws and the M3 nylock nuts. These should be slightly snug but not tight. There should be enough looseness for the nut to slide slightly in the printed carriage part.
+1. Attach the accent piece to the main piece using 3 M3x6 BHCS screws
+2. Thread the leadscrew nut onto the left Z stepper shaft
+3. Attach the printed parts to the rail carriage using 4 M2x6 BHCS screws
+4. Attach the printed parts to the leadscrew nut using 2 M3x12 SCHS screws and the M3 nylock nuts. These should be slightly snug but not tight. There should be enough looseness for the nut to slide slightly in the printed carriage part.
 
 ![](images/left_z_carriage.png)
 
@@ -88,10 +88,10 @@
 * 1 [a]_z_carriage_right
 
 **Steps:**
-3. Attach the accent piece to the main piece using 3 M3x6 BHCS screws
-4. Thread the leadscrew nut onto the right Z stepper shaft
-5. Attach the printed parts to the rail carriage using 4 M2x6 BHCS screws
-6. Attach the printed parts to the leadscrew nut using 2 M3x12 SCHS screws and the M3 nylock nuts. These should be slightly snug but not tight. There should be enough looseness for the nut to slide slightly in the printed carriage part.
+1. Attach the accent piece to the main piece using 3 M3x6 BHCS screws
+2. Thread the leadscrew nut onto the right Z stepper shaft
+3. Attach the printed parts to the rail carriage using 4 M2x6 BHCS screws
+4. Attach the printed parts to the leadscrew nut using 2 M3x12 SCHS screws and the M3 nylock nuts. These should be slightly snug but not tight. There should be enough looseness for the nut to slide slightly in the printed carriage part.
 
 ![](images/z_carriage_right.png)
 
@@ -173,6 +173,11 @@
 * 1 z_chain_mount
   
 **Steps:**
-1. Insert the 3 heatsets into the z_chain_mount ![](images/z_chain_anchor_heatsets.png)
-2. Using the M3x6 SHCS, attach the z_chain_mount to extrusion G ![](images/z_chain_anchor_attached.png)
+1. Insert the 3 heatsets into the z_chain_mount 
+
+![](images/z_chain_anchor_heatsets.png)
+
+2. Using the M3x6 SHCS, attach the z_chain_mount to extrusion G 
+
+![](images/z_chain_anchor_attached.png)
 
