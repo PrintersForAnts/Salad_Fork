@@ -266,6 +266,6 @@
 
 ![](images/umbilical_mount.png)
 
-4. Add the bowden_mount to the bottom of the top rear extrusion E, also centered over extrusion C 
+4. Add the bowden_mount to the bottom of the top rear extrusion E, also centered over extrusion C using 2 M3x6 SHCS
 
-![](images/bowden_mount.png) using 2 M3x6 SHCS
+![](images/bowden_mount.png)
