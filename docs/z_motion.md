@@ -173,6 +173,11 @@
 * 1 z_chain_mount
   
 **Steps:**
-1. Insert the 3 heatsets into the z_chain_mount ![](images/z_chain_anchor_heatsets.png)
-2. Using the M3x6 SHCS, attach the z_chain_mount to extrusion G ![](images/z_chain_anchor_attached.png)
+1. Insert the 3 heatsets into the z_chain_mount 
+
+![](images/z_chain_anchor_heatsets.png)
+
+2. Using the M3x6 SHCS, attach the z_chain_mount to extrusion G 
+
+![](images/z_chain_anchor_attached.png)
 
