@@ -33,7 +33,10 @@
 * 1 x_carriage_upper
 
 **Steps:**
-1. Add 5 M3 heatsets into the x_carriage_upper ![](images/x_carriage_heatsets.png)
+1. Add 5 M3 heatsets into the x_carriage_upper 
+
+![](images/x_carriage_heatsets.png)
+
 2. Thread the belt ends through the cutouts in the x carriage. Try to get the lengths roughly equal at this point
 3. Using M3x8 BHCS, lightly attach the carriage to the MGN9C rail carriage, but do not tighten yet
 4. Pull the belts as needed to get an *exactly equal* length on the top belt and bottom belt on each side. It's not critical if the excess belt on the left is equal to the excess belt on the right, but they should be close. However it is critical that the excess on the top belt matches the excess on the bottom belt
