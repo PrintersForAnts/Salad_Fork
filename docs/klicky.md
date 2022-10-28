@@ -14,6 +14,7 @@
 ![](images/klicky_dock_heatsets.png)
 
 2. Using M3x8 BHCS, attach the dock mount to the B extrusion, aligning the tab in the top of the A mount with the recess in the back of the dock
+## MAKE SURE THE DOCK IS ALIGNED WITH THE TAB ON THE _A mount_!!!
 
 
 # Attach the klicky dock
