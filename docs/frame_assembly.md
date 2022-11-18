@@ -234,7 +234,7 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 * Frame from previous step
 
 **Steps:**
-1. Attach each extrusion H between extrusons I and J, the exact distance to the top of the frame will be set later. The rails should be facing the _bottom_ of the frame
+1. Attach each extrusion H between extrusons I and J, the exact distance to the top of the frame will be set later. The rails should be facing the _bottom_ of the frame, with the printed endstops closest to the front rails.
 
 ![](images/y_rails_added_to_frame.png)
 
@@ -248,7 +248,7 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 * 8 M3x8 BHCS
 
 **Steps:**
-1. Preload 4 nuts into the top of each extrusion
+1. Preload 4 nuts into the top of each extrusion (2x extrusion H _and_ 2x extrusion E).
 2. Preload 4 nuts into a side of two extrusion H. These will face the outside of the printer
 3. Preload 2 nuts into one side of one extrusion E. This will face the rear of the printer
 4. Preload 2 nuts into the bottom of the same E extrusion (this will go in the rear of the frame)
