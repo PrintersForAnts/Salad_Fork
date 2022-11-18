@@ -202,7 +202,7 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 * 2 MGN7H rails (200mm for 120 build, 230mm for 160 build)
 * 14 M2 nuts for 120 build, 16 if 160 build
 * 14 M2x6 BHCS, 16 if 160 build
-* 4 M3x8 BHCS
+* 6 M3x8 BHCS
 * 18 M3 nut (+18 extra if installing backers)
   
 **Printed parts:**
