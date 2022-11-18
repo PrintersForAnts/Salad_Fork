@@ -203,7 +203,7 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 * 14 M2 nuts for 120 build, 16 if 160 build
 * 14 M2x6 BHCS, 16 if 160 build
 * 4 M3x8 BHCS
-* 10 M3 nut
+* 18 M3 nut (+18 extra if installing backers)
   
 **Printed parts:**
 * 2 Rail stops ([a]_railstop)
