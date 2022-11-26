@@ -67,7 +67,7 @@
 
 **Steps:**
 1. Attach the accent piece to the main piece using 3 M3x6 BHCS screws
-2. Thread the leadscrew nut onto the left Z stepper shaft
+2. Thread the leadscrew nut onto the left Z stepper shaft, you do not need the spring assembly.
 3. Attach the printed parts to the rail carriage using 4 M2x6 BHCS screws
 4. Attach the printed parts to the leadscrew nut using 2 M3x12 SCHS screws and the M3 nylock nuts. These should be slightly snug but not tight. There should be enough looseness for the nut to slide slightly in the printed carriage part.
 
@@ -89,7 +89,7 @@
 
 **Steps:**
 1. Attach the accent piece to the main piece using 3 M3x6 BHCS screws
-2. Thread the leadscrew nut onto the right Z stepper shaft
+2. Thread the leadscrew nut onto the right Z stepper shaft, you do not need the spring assembly.
 3. Attach the printed parts to the rail carriage using 4 M2x6 BHCS screws
 4. Attach the printed parts to the leadscrew nut using 2 M3x12 SCHS screws and the M3 nylock nuts. These should be slightly snug but not tight. There should be enough looseness for the nut to slide slightly in the printed carriage part.
 
@@ -105,7 +105,7 @@
 * 1 Leadscrew nut
 * 2 M3x12 SHCS
 * 2 M3 Nylock nuts 
-  
+# 2 M3 Heatsets
 
 
 **Printed parts:**
@@ -115,9 +115,10 @@
 
 **Steps:**
 1. Attach the accent piece to the main piece using 4 M3x6 BHCS screws
-2. Thread the leadscrew nut onto the rear Z stepper shaft
-3. Attach the printed parts to the rail carriage using 4 M2x6 BHCS screws
-4. Attach the printed parts to the leadscrew nut using 2 M3x12 SCHS screws and the M3 nylock nuts. These should be slightly snug but not tight. There should be enough looseness for the nut to slide slightly in the printed carriage part.
+2. Insert 2 M3 heatsets into the z_carriage_rear part where the cable chain will attach.
+3. Thread the leadscrew nut onto the rear Z stepper shaft, you do not need the spring assembly.
+4. Attach the printed parts to the rail carriage using 4 M2x6 BHCS screws
+5. Attach the printed parts to the leadscrew nut using 2 M3x12 SCHS screws and the M3 nylock nuts. These should be slightly snug but not tight. There should be enough looseness for the nut to slide slightly in the printed carriage part.
 
 ![](images/z_carriage_rear.png)
 
