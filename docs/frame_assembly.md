@@ -132,8 +132,9 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 * 1 Z extrusion with rail (I) from previous step
 
 **Steps:**
+
 1. Attach extrusion E to extrusion I, and tighten the screw in the E extrusion
-1. Attach extrusion H to extrusion I, and tighten the screw in the H extrusion
+2. Attach extrusion H to extrusion I, and tighten the screw in the H extrusion
 
 *Notes:*
 * For all of the frame assembly steps, be sure to make all corners square, and use a flat surface to build on to ensure the extrusions are aligned
@@ -220,8 +221,9 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 7. Add one M3x8 BHCS to each end of the extrusion, leaving a 2mm gap 
 8. Preload 2 M3 nuts onto the top and 2 M3 nuts into the bottom of the rail between the railstop and the end of the extrusion
 9. Preload 2 M3 nuts onto the top and 2 M3 nuts into bottom of the rail on the opposite end from the railstop
-10. Repeat for second extrusion
-11. **Be careful to not let the rail carriage slide off the rail**
+10. Preload an additional 9 M3 nuts into the bottom of the rail, if installing backers
+11. Repeat for second extrusion
+12. **Be careful to not let the rail carriage slide off the rail**
 
 
 ![](image/../images/y_rail_setup.png)
