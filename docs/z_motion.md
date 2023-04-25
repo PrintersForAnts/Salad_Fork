@@ -12,7 +12,7 @@
 
 **Steps:**
 
-1. Attach a motor mount to each stepper using M3x12 SHCS screws
+1. Attach a motor mount to each stepper using M3x12 SHCS screws. Leave one of them only lightly secured for now.
 2. Attach motors to frame using M3x10 BHCS screws. For the rear stepper, use the right 2 preloaded nuts. There should be 2 nuts remaining to the left of the motor mount, we will attach the cable chain anchor here later.
 
 ![](images/z_steppers_added.png)
@@ -28,8 +28,8 @@
 
 **Steps:**
 1. Flip the frame upside down for this step
-2. Lay the deck plate down, it will be supported by the Z steppers
-3. Fix it in place by adding 2 of the printed deck supports to each side, positioning is not critical
+2. Lay the deck plate down, it will be supported by the Z steppers. If the plate tolerances are too tight, you may need to remove the lightly secured stepper to get the deck plate in place. Do this if required, and secure the stepper to the mount in either case.
+3. Fix the deck plate in place by adding 2 of the printed deck supports to each side, positioning is not critical
 
 ![](images/deck_plate_added_bottom_view.png)
 
