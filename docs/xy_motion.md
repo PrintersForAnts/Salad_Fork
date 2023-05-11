@@ -55,7 +55,7 @@
 
 **Steps:**
 
-1. Attach the motor assembly to the B_drive_Frame_lower using 1 M3x6 BHCS in the position shown. Orient the stepper so that the wires are on the left side 
+1. Attach the motor assembly to the B_drive_Frame_lower using 1 M3x6 BHCS in the position shown. Orient the stepper so that the wires are on the left side (when viewed from the rear of the printer).
 
 ![](images/b_drive_m3_x8.png)
 
