@@ -250,14 +250,15 @@
 * 4 M3x6 SHCS
 
 **Printed parts:**
-* 1 z_spacer
+* 1 z_spacer: Note that this does not fit makerbeam extrusions
 * 1 z_bracket_left
 * 1 z_bracket_right
 * 1 bowden_mount
 * 1 umbilical_mount
 
 **Steps:**
-1. Using 2 M3x6 BHCS, add the z_bracket_right between extrusions B and C 
+1. Press the z_spacer between extrusions B and C as shown
+2. Using 2 M3x6 BHCS, add the z_bracket_right between extrusions B and C 
 
 ![](images/z_bracket_right.png)
 
