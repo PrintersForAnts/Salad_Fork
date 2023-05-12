@@ -122,7 +122,7 @@
 
 
 **Printed parts:**
-* 1 A_Drive_Frame_Upper
+* 1 A_Drive_Frame_lower
 
 **Steps:**
 
