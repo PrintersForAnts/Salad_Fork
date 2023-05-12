@@ -246,7 +246,8 @@
 # Attach rear Z brackets and misc parts
 
 **Parts needed:**
-* 4 M3x6 BHCS
+* 2 M3x6 BHCS
+* 2 M3x8 BHCS
 * 4 M3x6 SHCS
 
 **Printed parts:**
@@ -258,7 +259,7 @@
 
 **Steps:**
 1. Press the z_spacer between extrusions B and C as shown
-2. Using 2 M3x6 BHCS, add the z_bracket_right between extrusions B and C 
+2. Add the z_bracket_right between extrusions B and C. Use 1 M3x6 BHCS for attaching to extrusion C, and 1 M3x8 for extrusion B
 
 ![](images/z_bracket_right.png)
 
