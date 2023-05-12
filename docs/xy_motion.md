@@ -130,7 +130,7 @@
 
 ![](images/a_drive_stepper_attached.png)
 
-2. Using 3 M3x25 SHCS, attach the A_Drive_Frame_Upper 
+2. Using 3 M3x25 SHCS, attach the A_Drive_Frame_Upper. In the newer A_drive_Frame_lower design, there is a slot between the stepper and the frame. Route the endstop cabling through this.
 
 ![](images/A_drive_top_attached.png)
 
