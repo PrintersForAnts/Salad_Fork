@@ -11,6 +11,8 @@
 2. Remove the belt, and use it to cut an exactly equal length of belt. It's helpful to align the teeth of the belt to mak sure the lengths are even. It's _very important_ that the lengths of the two belts are **exactly equal**, with the same number of teeth on each
 3. Re-add the belt, using the same routing as before
 
+* Note *
+When working around the front idlers and the rear motors, it may help to have a curved pick to help route the belts.  Look for 'pick kit' on your favorite shopping site.
 
 # Add the A belt
 
@@ -25,15 +27,19 @@
 # Add the carriage and anchor the Belts
 
 **Parts needed:**
-* 5 M3 heatsets
+* 5 M3 heatsets (or 4 for stealthburner)
 * 4 M3x8 BHCS
 
 
 **Printed parts needed:**
 * 1 x_carriage_upper
 
+* note *
+
+If you are using the stealthburner, your carriage will look slightly different, and use 1 less heat insert.
+
 **Steps:**
-1. Add 5 M3 heatsets into the x_carriage_upper 
+1. Add 5 (or 4) M3 heatsets into the x_carriage_upper 
 
 ![](images/x_carriage_heatsets.png)
 

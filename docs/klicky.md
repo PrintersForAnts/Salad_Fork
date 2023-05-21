@@ -48,7 +48,7 @@
 * 1 probe_body
 
 **Steps:**
-1. Insert magnets into the top of the probe. The polarity is important, the magnets with matching colors in this picture must have the same polarity, and the one with a different color must have opposite polarity 
+1. Insert magnets into the top of the probe. The polarity is important, the magnets with matching colors in this picture must have the same polarity, and the one with a different color must have opposite polarity.  For people with color blindness, the 2 outer magnets should be the same polarity, and the centered magnet should be the opposite polarity.
 
 ![](images/klicky_probe_magnets_1.png)
 
@@ -88,8 +88,8 @@
 
 3. Insert magnets into the 3 holes, with the matching polarity as the klicky probe previously. Each magnet should be attracted to it's corresponding one on the klicky probe. 
 4. When the magnets are level and in the correct polarity, use a small amount of glue to fix them in place. 
-5. Prepare 2 more lengths of wire, again about 20cm, and solder them to the outside contacts of the D2F switch
-6. Using the M2x10 screw, mount the switch to the side of the lower carriage 
+5. Prepare 2 more lengths of wire, again about 20cm, and solder them to the outside contacts of the D2F switch.  Your switch MAY need the arm attached, orientation remains the same with or without it.
+6. Using an M2x10 screw, mount the switch to the side of the lower carriage 
 
 ![](images/x_lower_carriage_switch.png)
 

@@ -16,11 +16,12 @@
 
 **Parts needed:**
 * Bed
-* 3 M4 knurled Nut
-* 3 M3x16 SHCS 
+* 3 M4 knurled nut
+* 3 M3x16 SHCS
+* 6 M3 washers (optional if the countersunk holes are deeper, they would fit between the bed and the knurled nut)
 
 **Steps:**
-1. Use the M3x16 SHCS to attach the bed to the frame, using the M4 knurled nuts as a spacer between the bottom of the bed and the extrusions 
+1. Use the M3x16 SHCS to attach the bed to the frame, using the M4 knurled nut (and optionally washers) as a spacer between the bottom of the bed and the extrusions 
 
 ![](images/bed_attached.png)
 
