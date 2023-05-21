@@ -7,7 +7,10 @@
 * GT2 belt
 
 **Steps:**
-1. Route the belt as shown in this image. The exact length is not critical at this step, but make sure there is at least a few cm extra in the middle where the belts will attach to the carriage later. It may also be helpful to temporarily remove the adjustment screws from the front idlers ![](images/b_belt_path.png)
+1. Route the belt as shown in this image. The exact length is not critical at this step, but make sure there is at least a few cm extra in the middle where the belts will attach to the carriage later. It may also be helpful to temporarily remove the adjustment screws from the front idlers
+
+![](images/b_belt_path.png)
+
 2. Remove the belt, and use it to cut an exactly equal length of belt. It's helpful to align the teeth of the belt to mak sure the lengths are even. It's _very important_ that the lengths of the two belts are **exactly equal**, with the same number of teeth on each
 3. Re-add the belt, using the same routing as before
 
@@ -20,7 +23,9 @@ When working around the front idlers and the rear motors, it may help to have a 
 * GT2 belt cut in previous step
 
 **Steps:**
-1. Now add the second belt, this one goes to the A motor, as shown here ![](images/A_belt_path.png)
+1. Now add the second belt, this one goes to the A motor, as shown here
+
+![](images/A_belt_path.png)
 
 
 
