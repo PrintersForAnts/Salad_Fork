@@ -20,3 +20,23 @@ For now, follow standard Trident wiring instructions, with some small difference
 * Instead of an inductive probe, the klicky is used instead, so no BAT85 diode required
 * Instead of cable chains, Salad Fork uses an umbilical routed up extrusion C
   
+TBD:
+
+motor wires can run under the MCU/PSU, there is clearance.
+
+Motors plug in as follows:
+
+0: motor b
+1: motor a
+2: motor z (front left)
+3: motor z (rear center)
+4: motor z (front right)
+5: empty
+6: empty
+7: motor extruder
+
+X endstop plugs into X endstop plug (if not using sensorless)
+Y endstop plugs into Y endstop plug (if not using sensorless)
+Z endstop plugs into Z endstop plug.
+Klicky plugs into Z probe plug
+

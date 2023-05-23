@@ -83,3 +83,7 @@ To keep the CAD simple, a dimensionally-accurate cube was substituted for the po
 7. Clip the RPi and MCU to the rail
 
 ![](images/electonics_bay.png)
+
+**Note:**
+
+You may need/want to reverse the power supply and mcu locations, depending on the length of your cables.
