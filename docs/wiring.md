@@ -27,18 +27,18 @@ motor wires can run under the MCU/PSU, there is clearance.
 Motors should have diag disabled (by jumper, or by removing the diag pin) for all axis which are not using sensorless homing.  Failure to do so will disable that endstop.
 
 Motors plug in as follows:
+* 0: motor b
+* 1: motor a
+* 2: motor z (front left)
+* 3: motor z (rear center)
+* 4: motor z (front right)
+* 5: empty
+* 6: empty
+* 7: motor extruder
 
-0: motor b
-1: motor a
-2: motor z (front left)
-3: motor z (rear center)
-4: motor z (front right)
-5: empty
-6: empty
-7: motor extruder
-
-X endstop plugs into X endstop plug (if not using sensorless)
-Y endstop plugs into Y endstop plug (if not using sensorless)
-Z endstop plugs into Z endstop plug.
-Klicky plugs into Z probe plug
+Endstops plug in as follows:
+- X endstop plugs into X endstop plug (if not using sensorless)
+- Y endstop plugs into Y endstop plug (if not using sensorless)
+- Z endstop plugs into Z endstop plug.
+- Klicky plugs into Z probe plug
 
