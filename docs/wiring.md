@@ -24,6 +24,8 @@ TBD:
 
 motor wires can run under the MCU/PSU, there is clearance.
 
+Motors should have diag disabled (by jumper, or by removing the diag pin) for all axis which are not using sensorless homing.  Failure to do so will disable that endstop.
+
 Motors plug in as follows:
 
 0: motor b
