@@ -4,6 +4,8 @@
 **Parts needed:**
 * 1 AC inlet
 * 2 M3x6 BHCS
+* 3 colors of ~12-14 guage wire (recommended green, white, black)
+* ~7 male spade connectors (or solder and heatshrink tubing)
 
 **Printed parts:**
 * 1 skirt_rear_ac_inlet
@@ -14,12 +16,17 @@
 
 ![](images/skirt_ac_inlet.png)
 
+2. Wire up the power connector as shown. Please be careful, and ensure the connections are solid, and properly sheathed to avoid accidental contact.
+
+When connecting the wires, the switch connectors with the narrower spacing receive the power, and the wider set should get the outputs to the PSU.  Failure to note this will result in the switch LED (if present) remaining on all the time. 
+
+![](images/power_plug_wiring.png)
+
 2. Insert the AC inlet into the skirt, it should click into place securely
 
 ![](images/skirt_ac_inlet_inserted.png)
 
 # Power rail
-** THIS IS FOR 160 BUILD **
 
 **Parts needed:**
 * 1 DIN rail 
@@ -46,11 +53,13 @@
 5. Clip the power supply on to the din rail, orient it so that the AC side of the power supply is close to the inlet to reduce wiring length
 
 **Note:**
+You may need/want to reverse the power supply and mcu locations, depending on the length of your cables.  Check lengths before committing.
+
+**Note:**
 To keep the CAD simple, a dimensionally-accurate cube was substituted for the power supply in the images. 
 
 
 # Control rail
-** THIS IS FOR 160 BUILD **
 
 **Parts needed:**
 * 1 DIN rail 
@@ -84,6 +93,3 @@ To keep the CAD simple, a dimensionally-accurate cube was substituted for the po
 
 ![](images/electonics_bay.png)
 
-**Note:**
-
-You may need/want to reverse the power supply and mcu locations, depending on the length of your cables.
