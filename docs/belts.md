@@ -39,9 +39,9 @@ When working around the front idlers and the rear motors, it may help to have a 
 **Printed parts needed:**
 * 1 x_carriage_upper
 
-* note *
-
+*note*
 If you are using the stealthburner, your carriage will look slightly different, and use 1 less heat insert.
+
 
 **Steps:**
 1. Add 5 (or 4) M3 heatsets into the x_carriage_upper 

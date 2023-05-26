@@ -115,6 +115,7 @@ Stand the printer back on it's feet, then perform steps 1, 2 and 3.
 
 
 # Add the Y endstop switch 
+** SKIP THIS IF USING SENSORLESS HOMING **
 
 **Parts needed:**
 * 1 D2F switch
@@ -147,7 +148,7 @@ Stand the printer back on it's feet, then perform steps 1, 2 and 3.
 * 1 A_Drive_Frame_Upper
 
 * Note *
-DID YOU REMEMBER TO ADD THE Y ENDSTOP? If not, scroll back up and do that first.
+DID YOU REMEMBER TO ADD THE Y ENDSTOP? If not, scroll back up and do that first if you're not planning to use sensorless homing.
 
 You may wish to assemble the bearing stacks against the upper printed part first.
 
@@ -237,8 +238,6 @@ Stand the printer back on it's feet, then perform steps 1, 2 and 3.
 
 
 
-
-
 # Attach the A idler
 
 **Parts needed:**
@@ -305,7 +304,7 @@ Stand the printer back on it's feet, then perform steps 1, 2 and 3.
 
 ![](images/z_bracket_right.png)
 
-7. With 2 M3x6 SHCS, mount the umbilical_mount on top of extrusion B, centered over extrusion C 
+7. With 2 M3x6 SHCS, mount the umbilical_mount on top of extrusion B, centered over extrusion C, you may wish to shift it to the right later.
 
 ![](images/umbilical_mount.png)
 
