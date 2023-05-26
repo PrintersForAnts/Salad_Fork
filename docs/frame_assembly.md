@@ -256,7 +256,7 @@ You should have the following preloaded on the H extrusions:
 * top: 4x3mm (or 13, if installing backers)
 * bottom front: 2x3mm
 * bottom back: 2x3mm
-* outer side: 2x3mm
+* outer side: None
 
 
 
