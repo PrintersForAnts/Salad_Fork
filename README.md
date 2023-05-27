@@ -11,6 +11,9 @@ Why go to the trouble of a whole new build? Well, Salad Fork features:
 - [Purge bucket support][purgeBucketURL]
 - Flexible toolhead support with a variety of options
 - Fast preheat time compared to full-sized printers, no need to wait an hour preheating
+- Optional sensorless homing
+- mini-SB support
+- [Boop compatibility][boopURL]
 
 Coming soon™…
 
@@ -22,6 +25,7 @@ Coming soon™…
 [klickyURL]: https://github.com/jlas1/Klicky-Probe
 [purgeBucketURL]: https://github.com/CadmonkeyFPV/Salad_Fork/tree/master/MODS/Dishwasher
 [sexboltURL]: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_SexBolt_ZEndstop
+[boopURL]: https://github.com/PrintersForAnts/Boop
 
 # BOM
 
