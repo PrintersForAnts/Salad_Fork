@@ -22,7 +22,7 @@ When connecting the wires, the switch connectors with the narrower spacing recei
 
 ![](images/power_plug_wiring.png)
 
-2. Insert the AC inlet into the skirt, it should click into place securely
+3. Insert the AC inlet into the skirt, it should click into place securely
 
 ![](images/skirt_ac_inlet_inserted.png)
 
