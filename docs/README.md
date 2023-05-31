@@ -11,6 +11,7 @@ Welcome to the Salad Fork manual! This will give you the info you need in order 
 * SHCS - Socket head cap screw
 
 # Table of Contents
+- [Print considerations](what_to_print.md)
 - [Frame assembly](frame_assembly.md)
 - [Z motion](z_motion.md)
 - [XY motion](xy_motion.md)

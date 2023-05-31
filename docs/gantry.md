@@ -41,7 +41,7 @@
 
 ![](images/xy_joint_left_heatsets.png)
 
-2. Using 2 M3x25 BHCS, assemble two bearing stacks on the xy_joint_left_upper. Don't over-tighten these screws, the bearings are intended to have some freedom of movement 
+2. Using 2 M3x25 BHCS, assemble two bearing stacks on the xy_joint_left_upper. Don't over-tighten these screws, the bearings are intended to have some freedom of movement. Note these screw directly into plastic.
 
 ![](images/xy_joint_left_upper_bearing_stacks.png)
 
@@ -70,7 +70,7 @@
 
 **Steps:**
 1. Insert two heatsets into the xy_joint_right_lower 
-2. Using 2 M3x25 BHCS, assemble two bearing stacks on the xy_joint_right_upper. Don't over-tighten these screws, the bearings are intended to have some freedom of movement 
+2. Using 2 M3x25 BHCS, assemble two bearing stacks on the xy_joint_right_upper. Don't over-tighten these screws, the bearings are intended to have some freedom of movement Note these screw directly into plastic.
 3. Uses 2 M3x35 SHCS to attach the xy_joint_right_lower to the xy_joint_right_upper 
 
 
@@ -86,11 +86,11 @@
 * 8 M2x12 SHCS      
 
 **Steps:**
-1. Use 2 M3x8 BHCS and 2 M3 nuts to attach the left XY joint to the D extrusion through the top 
+1. Use 2 M3x8 BHCS and 2 M3 nuts to attach the left XY joint to the D extrusion through the top. Do not tighten fully at this point.
 
 ![](images/xy_left_attached_to_rail.png)
 
-2. Use 1 M3x20 SHCS and 1 M3 nut to attach to the extrusion from the bottom
+2. Use 1 M3x20 SHCS and 1 M3 nut to attach to the extrusion from the bottom. Do not tighten fully at this point.
 3. Repeat for the right XY joint
 4. Use 4 M2x12 SHCS on each side to attach the assembly to the Y rails 
 
@@ -99,4 +99,8 @@
 
 # Make sure movement is smooth
 
-At this point, slide the X axis forward and back by hand to ensure the movement is smooth, with no rough spots or tension. If there is any binding, make sure the Y rails are parallel and centered.
+At this point, slide the X axis forward and back by hand to ensure the movement is smooth, with no rough spots or tension.
+
+Ensure the rail meets the front rail stop equally on both sides.
+
+If there is any binding, make sure the Y rails are parallel and centered.  Tighten the M3x20 and M3x8 screws, and confirm movement remains smooth, and the rails still reach the front stops equally.

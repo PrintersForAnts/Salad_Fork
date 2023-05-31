@@ -36,6 +36,12 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 * 2 Z rail nut holders (z_rail_nut_holder)
 * 2 MGN7 rail guides (MGN7_Rail_Guide)
 
+**Note**
+Some extrusions may not properly fit the z_rail_nut_holder part.  The 
+part is 3mm tall, and some extrusion channels are only 2.5mm tall.  Taking
+into account the size of the m2 nuts, you should resize the rail holder parts
+in the Z axis only to 2.0mm.
+
 **Steps:**
 
 1. Put 7 M2 nuts in each z rail nut holder, skipping every other hole
@@ -67,6 +73,12 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 * 1 Rail stops ([a]_railstop)
 * 1 Z rail nut holders (z_rail_nut_holder)
 * 2 MGN7 rail guides (MGN7_Rail_Guide)
+
+**Note**
+Some extrusions may not properly fit the z_rail_nut_holder part.  The 
+part is 3mm tall, and some extrusion channels are only 2.5mm tall.  Taking
+into account the size of the m2 nuts, you should resize the rail holder parts
+in the Z axis only to 2.0mm.
 
 **Steps:**
 
@@ -123,6 +135,11 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 4. Preload 4 M3 nuts into each side of the extrusion
 5. Repeat for second extrusion
 
+You should have the following for each lower Y extrusion:
+* top: 2x3mm
+* bottom: 7x3mm
+* left side: 4x3mm
+* right side: 4x3mm
 
 # Assemble front left corner of frame 
 
@@ -132,8 +149,9 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 * 1 Z extrusion with rail (I) from previous step
 
 **Steps:**
+
 1. Attach extrusion E to extrusion I, and tighten the screw in the E extrusion
-1. Attach extrusion H to extrusion I, and tighten the screw in the H extrusion
+2. Attach extrusion H to extrusion I, and tighten the screw in the H extrusion
 
 *Notes:*
 * For all of the frame assembly steps, be sure to make all corners square, and use a flat surface to build on to ensure the extrusions are aligned
@@ -156,6 +174,9 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 2. Attach extrusion I to extrusion E in the frame, and tighten the screw in the E extrusion
 3. Attach extrusion H to extrusion I, and tighten the screw in the H extrusion
 
+You should have the following preloaded into your righthand I extrusion:
+* left: 4x3mm (inside) channel.
+
 ![](images/front_right_assembly.png)
 
 
@@ -176,7 +197,14 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 3. Add 2 M3 nuts to the front of the G extrusion
 4. Add 4 M3 nuts to the top of the G extrusion. Three of these should be on the left half, and one on the right half.
 5. Attach the C extrusion to the middle of the G extrusion
-   
+
+You should have the following preloaded on the G extrusion:
+* bottom: 8x3mm
+* back: 2x3mm (If using the Fabreeko back panel, use 1x3mm instead)
+* front: 2x3mm
+* top left: 3x3mm
+* top right: 1x3mm
+
 ![](images/rear_z_assembly.png)
 
 
@@ -220,8 +248,16 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 7. Add one M3x8 BHCS to each end of the extrusion, leaving a 2mm gap 
 8. Preload 2 M3 nuts onto the top and 2 M3 nuts into the bottom of the rail between the railstop and the end of the extrusion
 9. Preload 2 M3 nuts onto the top and 2 M3 nuts into bottom of the rail on the opposite end from the railstop
-10. Repeat for second extrusion
-11. **Be careful to not let the rail carriage slide off the rail**
+10. Preload an additional 9 M3 nuts into the top of the rail, if installing backers
+11. Repeat for second extrusion
+12. **Be careful to not let the rail carriage slide off the rail**
+
+You should have the following preloaded on the H extrusions:
+* top: 4x3mm (or 13, if installing backers)
+* bottom front: 2x3mm
+* bottom back: 2x3mm
+* outer side: None
+
 
 
 ![](image/../images/y_rail_setup.png)
@@ -249,12 +285,24 @@ In this step, you will prepare the linear rails for use. Some vendors are provid
 
 **Steps:**
 1. Preload 4 nuts into the top of each extrusion (2x extrusion H _and_ 2x extrusion E).
-2. Preload 4 nuts into a side of two extrusion H. These will face the outside of the printer
-3. Preload 2 nuts into one side of one extrusion E. This will face the rear of the printer
-4. Preload 2 nuts into the bottom of the same E extrusion (this will go in the rear of the frame)
+2. Preload 4 nuts into one side of two extrusion H. These will face the outside of the printer
+3. Preload 2 nuts into one side of one extrusion E. This will face the outside of the printer (1 if using fabreeko back panel)
+4. Preload 2 nuts into the bottom of the same E extrusion (this will go in the rear of the frame, skip if using fabreeko back panel)
 5. Add one M3x8 BHCS to each end of each extrusion, leaving a 2mm gap 
 6. Attach the extrusions to the frame, making sure that the preloaded nuts are on the top and _outside_ faces of the extrusions, and that the extrusion with 2 nuts on the bottom is in the rear of the frame. 
 7. Ensure that the top of the extrusions is level and square with the rest of the frame.
+
+You should have the following preloaded on both H extrusions:
+* top: 4x3mm
+* outer side 4x3mm
+
+You should have the following preloaded on front E extrusion:
+* top: 4x3mm
+
+You should have the following preloaded on rear E extrusion: (Rear)
+* top: 4x3mm
+* outer side: 2x3mm (If using the Fabreeko back panel, use 1x3mm instead)
+* bottom: 2x3mm (If using the Fabreeko back panel, skip)
 
 ![](images/frame_assembled.png)
 
