@@ -224,7 +224,7 @@ Stand the printer back on it's feet, then perform steps 1, 2 and 3.
 
 ![](images/b_idler_bearing_stack.png)
 
-3. Attach the tensioner_bottom to the frame using M3x8 BHCS. Be careful to not dislodge the bearing stack.  A paperclip can be used to straighten the stack if it's shifted.
+3. Attach the tensioner_bottom to the frame using M3x10 BHCS. Be careful to not dislodge the bearing stack.  A paperclip can be used to straighten the stack if it's shifted.
 
 ![](images/b_idler_bottom_attached.png)
 
