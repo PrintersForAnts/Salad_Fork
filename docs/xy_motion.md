@@ -111,7 +111,7 @@ Stand the printer back on it's feet, then perform steps 1, 2 and 3.
 **Steps:**
 1. Attach a GT2 16T to the stepper drive shaft. Align it as shown, with approx 4.8mm clearance from the stepper. This will be adjusted later when the belts are added
    
-![](images/A_drive_pulley_detail.png)
+![](images/a_drive_pulley_detail.png)
 
 
 # Add the Y endstop switch 
