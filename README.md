@@ -1,43 +1,35 @@
 # Salad Fork
 
-![](images/salad-fork-hero.png)
+<img src="images/salad-fork-hero.png" width=300/>
 
-The Salad Fork is a [Voron Trident][tridentURL] scaled down to use 1515 aluminum extrusions for the frame instead of 2020, exactly [like how the Micron][micronURL] is a [Voron 2.4][v2URL] scaled down. It is not a modification for a Voron V0, but a from-scratch build that requires longer extrusions and rails, two more V0.1 integrated-leadscrew Z motors, a higher-wattage power supply, possibly a bigger bed…
+The Salad Fork is based on the [Trident][tridentURL] scaled down to use 1515 aluminum extrusions for the frame instead of 2020. 
 
 Why go to the trouble of a whole new build? Well, Salad Fork features:
 
-- Support for build volumes of 120mm³ or 160mm³ (1.95× the build volume of a V0.1!)
-- [Klicky support][klickyURL]
-- [Purge bucket support][purgeBucketURL]
-- Flexible toolhead support with a variety of options
+- Support for build volumes of 120mm, 160mm or 180mm
+- [Klicky][klickyURL] by default, with [Boop][boopURL] as an option
+- Flexible toolhead support with a variety of options, with mini-SB as the default
 - Fast preheat time compared to full-sized printers, no need to wait an hour preheating
 - Optional sensorless homing
-- mini-SB support
-- [Boop compatibility][boopURL]
 
-Coming soon™…
 
-- Magnetically-attached panels
+# New 1.1 features and changes
+- Almost every single part has been tweaked or rebuilt, with a goal for making it easier to build and to fix problematic areas of the original design
+- Taller skirts for more room underneath the printer
+- Modular display adapter
+- Uses the mini-BFI tensioners
+- All new panels, new filament feed setup
+- A new 230+ page illustrated assembly manual
+- Lots of other improvements, too many to keep track of here!
 
 [tridentURL]: https://vorondesign.com/voron_trident
-[micronURL]: https://github.com/hartk1213/micron
-[v2URL]: https://vorondesign.com/voron2.4
 [klickyURL]: https://github.com/jlas1/Klicky-Probe
-[purgeBucketURL]: https://github.com/CadmonkeyFPV/Salad_Fork/tree/master/MODS/Dishwasher
-[sexboltURL]: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_SexBolt_ZEndstop
 [boopURL]: https://github.com/PrintersForAnts/Boop
 
 # BOM
 
-[The latest official BOM is available on Google Sheets](https://docs.google.com/spreadsheets/d/1n6JTSzffAK_P--eWcxSz3VW9IkL-mgCT2KQqZSYsVyk/edit?usp=sharing).
+[The latest official BOM is available on Google Sheets](https://docs.google.com/spreadsheets/d/1DnkwrRtJNcoGL-Rt9BPtPb3k2h_I25iwsV7EJWsaeHw/edit?usp=sharing).
 
-# Documentation
-
-[The documentation is included in this repo right over here](docs/README.md)
-# Salad Fork in action
-
-[![Salad Fork video from CadmonkeyFPV](https://img.youtube.com/vi/ibptF2t73A4/0.jpg)](https://youtu.be/ibptF2t73A4)
-[![Salad Fork video from Yeri](images/salad-fork-yeri-serial-thumbnail.png)](https://www.youtube.com/watch?v=kDXkF1GaVEc)
 
 # Merch!
 
