@@ -14,6 +14,7 @@ Why go to the trouble of a whole new build? Well, Salad Fork features:
 
 
 # New 1.1 features and changes
+- 180mm build size is now available!
 - Almost every single part has been tweaked or rebuilt, with a goal for making it easier to build and to fix problematic areas of the original design
 - Taller skirts for more room underneath the printer
 - Modular display adapter
