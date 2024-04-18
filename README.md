@@ -1,6 +1,6 @@
 # Salad Fork
 
-<img src="images/salad-fork-hero.png" width=300/>
+<img src="images/salad-fork-hero-1.1.png" width=300/>
 
 The Salad Fork is based on the [Trident][tridentURL] scaled down to use 1515 aluminum extrusions for the frame instead of 2020. 
 
