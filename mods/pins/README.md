@@ -21,7 +21,7 @@ The pin sizes are:
 * (Qty 2) 3x22 mm
 * (Qty 2) 3x14 mm
 
-The 22mm pins are used for the bearing stack on the AB motors, the 14mm pins are used for the tensioners, and the 18mm pins are used for the X/Y joints. Assembly is fairly straightforward, and in fact the slight friction fit of the pins makes things a bit easier than with the screws. 
+The 18mm and 22mm pins are used for the bearing stack on the AB motors, the 14mm pins are used for the tensioners, and the 18mm pins are used for the X/Y joints. Assembly is fairly straightforward, and in fact the slight friction fit of the pins makes things a bit easier than with the screws. 
 
 There several vendors that may still be selling a pins kit for the older Salad Fork 1.0 design ([Example](https://dfh.fm/products/ultra-lightweight-aluminum-salad-fork-pins-mod-kit)). Note, however, that these kits do not have the 14mm pins, so if you get one of these, you will need to cut down two of the 18mm pins.
 
