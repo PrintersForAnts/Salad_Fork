@@ -31,6 +31,7 @@ Why go to the trouble of a whole new build? Well, Salad Fork features:
 
 [The latest official BOM is available on Google Sheets](https://docs.google.com/spreadsheets/d/1DnkwrRtJNcoGL-Rt9BPtPb3k2h_I25iwsV7EJWsaeHw/edit?usp=sharing).
 
+*Warning:* EU-1515 profiles with a large channel opening are not compatible with this design. Please double-check to make sure you are using extrusions with a smaller approxomately 4mm channel opening
 
 # Merch!
 
